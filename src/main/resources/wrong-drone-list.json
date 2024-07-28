@@ -1,0 +1,23 @@
+[
+  {
+    "serialNumber": "alter table if exists medication_item add constraint FK1vlsd3a18gkq7evq5rn32e0wb foreign key (medication_id) references medication",
+    "model": "Lightweight",
+    "weight": 500,
+    "batteryCapacity": 90,
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "AVC2",
+    "model": "Lightweight",
+    "weight": 50000,
+    "batteryCapacity": 100,
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "AVC3",
+    "model": "Lightweight",
+    "weight": 500,
+    "batteryCapacity": 130,
+    "state": "IDLE"
+  }
+]

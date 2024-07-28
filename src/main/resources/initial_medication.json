@@ -1,0 +1,20 @@
+[
+  {
+    "name": "81Hl1",
+    "weight": 40,
+    "code": "1234",
+    "image": "string"
+  },
+  {
+    "name": "81Hl2",
+    "weight": 140,
+    "code": "1235",
+    "image": "string"
+  },
+  {
+    "name": "81Hl3",
+    "weight": 30,
+    "code": "1236",
+    "image": "string"
+  }
+]
