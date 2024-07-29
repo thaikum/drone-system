@@ -24,3 +24,5 @@ The project contains 3 json files in the main resources path.
 When the system starts, the `InitialDataLoader` class loads the first 3 drones and medications.
 All drone functionality happens in the `DroneService`
 All Unit Tests are in the `DroneApisTest` inside the `test` directory.
+
+Swagger is configured at [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
